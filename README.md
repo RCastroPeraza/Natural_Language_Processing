@@ -1,7 +1,7 @@
 # Natural Language Processing (NLP)
 [![NLP.jpg](https://i.postimg.cc/ZKDZGsKt/NLP.jpg)](https://postimg.cc/XpFTF8CQ)
 
-> Author: Ricardo Castro Peraza <br>
+Author: Ricardo Castro Peraza <br>
 :fa-github: https://github.com/RCastroPeraza <br>
 :fa-linkedin-square:  https://www.linkedin.com/in/rcastroperaza/ <br>
 :fa-envelope-o: rcastroperaza@gmail.com <br>
