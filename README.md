@@ -2,8 +2,8 @@
 [![NLP.jpg](https://i.postimg.cc/ZKDZGsKt/NLP.jpg)](https://postimg.cc/XpFTF8CQ)
 
 Author: Ricardo Castro Peraza <br>
-github.com/RCastroPeraza <br>
-linkedin.com/in/rcastroperaza/ <br>
+https://github.com/RCastroPeraza <br>
+https://www.linkedin.com/in/rcastroperaza/ <br>
 rcastroperaza@gmail.com <br>
 
 
